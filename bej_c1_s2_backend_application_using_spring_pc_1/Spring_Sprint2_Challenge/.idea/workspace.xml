@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fd69706-7250-44fe-9241-f21ececadcf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/src/main/java/org/example/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/src/main/java/org/example/ProductConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BEJ_C1_S2_Backend_Application_Using_Spring_PC_1/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2brepj5Ulpfq4gCiQ44qsb6D8LJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/NIIT_Spring_Code/bej_c1_s2_backend_application_using_spring_mc_1/Spring_Sprint2_Challenge"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fd69706-7250-44fe-9241-f21ececadcf3" name="Changes" comment="" />
+      <created>1706977812909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706977812909</updated>
+    </task>
+    <servers />
+  </component>
+</project>
